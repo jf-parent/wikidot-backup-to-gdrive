@@ -1,0 +1,8 @@
+*.pyc
+*.json
+*.swp
+*.db
+run_results
+*.yml
+*.yaml
+*.log

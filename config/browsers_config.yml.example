@@ -1,0 +1,5 @@
+firefox:
+  browserName: 'Firefox'
+
+chrome:
+  browserName: 'Chrome'

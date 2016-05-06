@@ -15,6 +15,8 @@ CONFIGURATION
 
 http://pythonhosted.org/PyDrive/quickstart.html#authentication
 
+terminal-notifier: https://github.com/julienXX/terminal-notifier
+
 CRONTAB
 =======
 0 20 */15 * * cd /path/to/project/ && xvfb-run ./bro

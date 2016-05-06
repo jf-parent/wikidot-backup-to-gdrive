@@ -1,3 +1,9 @@
+bot_diary:
+  enable_auto_bot_diary: false
+  enable_auto_bot_diary_component_screenshot: true
+  enable_bot_diary: true
+  streamlogger: true
+  filelogger: true
 browser:
   maximize_window: false
   window_height: 725

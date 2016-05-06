@@ -2,7 +2,7 @@
 *.json
 *.swp
 *.db
-run_results
+test_results
 *.yml
 *.yaml
 *.log

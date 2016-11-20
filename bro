@@ -28,6 +28,7 @@ def upload_backup_to_gdrive(brome):
                 'title': "backup-wiki-%s.zip"%now,
                 'parents': [{"id":brome.get_config_value("project:folder_id")}]
         })
+        gfile.SetContentFile(backup_file);
         gfile.Upload()
 
         os.remove(backup_file)
